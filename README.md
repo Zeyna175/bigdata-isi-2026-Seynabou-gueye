@@ -1,11 +1,11 @@
-# Big Data Engineering — UCAD 2026 — Dépôt de <Prénom NOM>
+# Big Data Engineering — ISI 2026 — Dépôt de <Seynabou Gueye>
 
 > Master 1 — DMI / FST / UCAD — Prof. Samba Ndiaye
 > Dépôt individuel du cours : tous les livrables du semestre y sont versionnés.
 
 ## À compléter (TP 1)
 
-- **Étudiant·e** : <Prénom NOM> — <email> — <n° carte étudiant>
+- **Étudiant·e** : <Seynabou Gueye> — <email> — <n° carte étudiant>
 - **Identifiant GitHub** : <login>
 
 ## Structure du dépôt
